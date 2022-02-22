@@ -23,8 +23,8 @@ viewed by anyone.
 - Use TypeScript
 
 ## Tools
-- > [Vite](https://vitejs.dev/guide/#trying-vite-online)
-- > [Chakra UI](https://chakra-ui.com/docs/getting-started)
+- > [Create React App](https://create-react-app.dev/)
+- > [Material UI](https://mui.com/getting-started/)
 - > [Axios](https://axios-http.com/docs/intro)
 - > [React Router](https://reactrouter.com/docs/en/v6/getting-started/installation)
 - > [Marvel API](https://developer.marvel.com/documentation)
